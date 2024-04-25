@@ -87,7 +87,6 @@ Als ik meer tijd had gehad, dan had ik nog meer animaties gemaakt en meer achteg
 
 <details>
   <summary>Design principles</summary>
-  <details>
     <details>
     <summary>Study Information</summary>
       prrr
@@ -104,6 +103,5 @@ Als ik meer tijd had gehad, dan had ik nog meer animaties gemaakt en meer achteg
     <summary>Adding Nonsense</summary>
       prr
     </details>
-</details>
 </details>
 
