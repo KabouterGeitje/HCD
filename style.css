@@ -1,0 +1,160 @@
+@font-face {
+    font-family: cabin;
+    src:url(./fonts/Cabin/Cabin-VariableFont_wdth\,wght.ttf);
+  }
+
+body{
+    font-family: cabin;
+    width: 100dvw;
+    height: 100dvh;
+    display: flex;
+    background-color:white;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    overflow: hidden;
+    transition: 0.5s ease-in;
+
+    h1{
+        font-size: clamp(1.5em, 5em, 3vw);
+        transition: 0.5s ease-in;
+    }
+    
+    section{
+        width: clamp(25em, 80em, 60%);
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        border: black solid 0.2rem;
+        background-color: whitesmoke;
+        border-radius: 10px;
+        padding-top: 5rem;
+        padding-bottom: 5rem;
+        transition: 0.5s ease-in;
+    }
+    
+    video{
+        width: 70%;
+        height: auto;
+        margin: 0;
+        padding: 0;
+        border-radius: 10px;
+        z-index: 2;
+    }
+    
+    .buitenBeeld{
+        color: white;
+        font-weight: 700;
+        position: absolute;
+    }
+    
+    .animatie{
+        position: absolute;
+    }
+}
+
+body::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.3;
+    background-image: url(./images/theBear.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    z-index: -5;
+  }
+
+/* Styling tekst buiten beeld */
+
+.one{
+    font-size: 1.1vw;
+    transform: translate(25.5dvw, -5dvh);
+}
+
+.two{
+    font-size: 1.1vw;
+    transform: translate(-1dvw, 30dvh);
+}
+
+.three{
+    font-size: 1.1vw;
+    transform: translate(-25.5dvw, 5dvh);
+}
+
+.four{
+    font-size: 1.1vw;
+    transform: translate(-25dvw, 33dvh);
+}
+
+.five{
+    font-size: 0.9vw;
+    transform: translate(25.5dvw, -5dvh);
+}
+
+.six{
+    font-size: 1vw;
+    transform: translate(25.5dvw, -5dvh);
+}
+
+/* animaties */
+
+.oneAnimation {
+    width: 20%;
+    height: 50%;
+    background-image: radial-gradient( white 0%, transparent 20%);
+    transform: translate(20.5dvw, -5dvh);
+}
+
+.carmyHeftig {
+    width: 150%;
+    height: 150%;
+}
+
+.carmyHeftig::after {
+    content:"";
+	position:absolute;
+    top: -20%;
+	width:100%;
+	height:100%;
+		
+	background-image:repeating-conic-gradient(
+		from var(--from, 10deg) at center var(--y, 70%),
+		#ffc0 0deg 10deg,
+		#ffc 10deg 20deg
+	);
+	
+	animation:rotate 5s infinite linear;
+}
+
+
+/* animation: marcus var(--duration) ease-in; */
+/* @keyframes marcus {
+    from{
+        border-left: white solid 2rem;
+    }
+    to{
+        border-left: rgb(252, 0, 0) solid 2rem;
+    }
+} */
+
+@keyframes rotate {
+	0% {
+		--from:0turn;
+	}
+	100% {
+		--from:1turn;
+	}
+}
+
+@property --from {
+    syntax: "<angle>";
+    initial-value: 0deg;
+    inherits: false;
+  }
