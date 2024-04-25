@@ -71,3 +71,39 @@ voor mij had ze nog:
 Feedback van Vasilis:
 - meerdere versies maken van hetzelfde fragment, meerdere animaties proberen en bij elk fragment dan iets anders.
 </details>
+
+<details>
+  <summary>week 4</summary>
+  
+  ## De laatste ronde
+Ik was erg gestrest deze week, en wist niet meer zo goed hoe en waar ik verder moest. Niels heeft even met mij gezeten en een stappenplan gemaakt. Ik heb eerst de tekst van het script helemaal verbeterd en bij de tekst gezet wie wat zegt. Ik heb met een online tool de video captions gedaan en waar mensen door elkaar heen praten heb ik tekst in de video geplakt zodat het duidelijk is dat er meer gezegd wordt dan je in eerste instantie zou denken. Ook heb ik de tekst die gezegd wordt buiten beeld, om de video heen geplaats, waar ik het geluid vandaan hoor komen. Ik heb dit niet meer bij alle tekst kunnen doen ivm met de tijd. Omdat ik ook graag nog een animatie wilde doen heb ik dit voor de rest laten zitten en heb ik nog een animatie toegevoegd op een heel intens moment. Ik had een conic gradiënt gebruikt en deze laten ronddraaien op het moment dat er enornm geschreeuwd werd. Toen was het alweer tijd om te testen.
+
+Feedback van Marie: 
+Marie vond het heel leuk om te zien hoeveel er eigenlijk nog meer gezegd werd. Ook buiten beeld. Ze vond ook de animatie heel erg leuk die ik had gemaakt op het meest intense moment wanneer Carmy (de hoofdrolspeler) heel hard begint te schreeuwen. Ze vond het wel soms onduidelijk wie wat waneer zei. Bij het moment van Sydney wanneer ze met Marcus praat. Ze zei dat het kon helpen om de kleur van het font aan te passen en iedereen een aparte kleur te geven. Qua ondertiteling had ik een zwarte achetergrond, maar dit was volgens Marie onnodig en maakte het drukker dan hoefde te zijn. Verder was ze heel enthaisiast, wat erg leuk was om te horen. Ik heb verder niks meer kunnen aanpassen, omdat ik ook verder moest werken aan een andere schoolopdracht. 
+
+## Wat had ik nog meer willen doen / zou ik anders doen
+Als ik meer tijd had gehad, dan had ik nog meer animaties gemaakt en meer achtegrond geluid naar voren laten komen die ook invloed had op de drukke en stresvolle sfeer. Ik had de achtegrond van de ondertiteling weggehaald en de verschillende personages een andere kleur font gegeven. Ook zou ik meer nuances willen geven aan de emotie van wat er gezegd werd en hoe dit gezegd werd.
+</details>
+
+<details>
+  <summary>Design principles</summary>
+  <details>
+    <details>
+    <summary>Study Information</summary>
+      prrr
+    </details>
+    <details>
+    <summary>Ignoring Conventions</summary>
+      prrr
+    </details>
+    <details>
+    <summary>Prioritize Identity</summary>
+      prr
+    </details>
+    <details>
+    <summary>Adding Nonsense</summary>
+      prr
+    </details>
+</details>
+</details>
+
