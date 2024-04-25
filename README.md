@@ -4,7 +4,8 @@ Human Centered Design
 ## Logboek per week
 
 <details>
-  <summary>week 1</summary>
+  <summary>week 1</summary>\
+    ## Marie leren kennen
  ## Marie leren kennen
 Deze week hebben we ons vooral bezig gehouden met oriënteren. Het is de bedoeling dat we iets gaan maken voor iemand met een beperking. De klas is verdeeld in groepjes en ieder groepje werd aan een ander persoon gekoppeld. In totaal waren er 3 groepjes en 3 personen. Ik ben ingedeeld bij het groepje van Marie. Marie is docent bij CMD en ze werkt als ontwerper bij Unc Inc. Marie wil graag naar podcasts luisteren en daar net zoveel details in horen als mensen die kunnen horen. En ze wil graag dat ze geluid in films net zo kan ervaren als mensen die wel geluid horen. (dit stukje over Marie heb ik overigens rechtstreeks van DLO gehaald, maar we hebben haar natuurlijk ook gesproken) We zouden de kans krijgen om haar te interviewen. Met de informatie over Marie van DLO bij de hand hebben we een aantal vragen bedacht om aan Marie te vragen. Hieronder de informatie die we hebben vergaard. (de vragen stonden op 1 blaadje, en die heeft iemand anders meegenomen) Gelukkig zijn de antwoorden het belangrijkste. :)
 
