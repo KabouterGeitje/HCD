@@ -66,5 +66,8 @@ Na het feedback moment ben ik begonnen met het maken van een website en ging ik 
 
 voor mij had ze nog:
  - spelen met de positie
-  
+ - wat heeft de meeste invloed op de sfeer?
+
+Feedback van Vasilis:
+- meerdere versies maken van hetzelfde fragment, meerdere animaties proberen en bij elk fragment dan iets anders.
 </details>
