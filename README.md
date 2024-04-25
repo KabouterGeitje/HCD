@@ -87,9 +87,15 @@ Als ik meer tijd had gehad, dan had ik nog meer animaties gemaakt en meer achteg
 
 <details>
   <summary>Design principles</summary>
-  #Study Information
-  #Ignoring Conventions
-  #Prioritize Identity
-  #Adding Nonsense
+  
+  Study Information 
+We hebben uitgebreid onderzoek gedaan naar Marie tijdens het interview. Dit is terug te zien op de uitgebreide beschrijving van haar antwoorden uit week 1. We hebben ook de tips van Marie aangenomen en verschillende fragmenten zonder geluid bekeken met gewone ondertiteling en met closed captions om ons bewust te worden van alles wat we precies missen. 
+  
+  Ignoring Conventions
+  
+  Prioritize Identity
+  
+  Adding Nonsense
+  
 </details>
 
