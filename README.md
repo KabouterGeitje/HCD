@@ -5,8 +5,7 @@ Human Centered Design
 
 <details>
   <summary>week 1</summary>
-  
-  ## Wat heb ik gedaan?
+ ## Marie leren kennen
 Deze week hebben we ons vooral bezig gehouden met oriënteren. Het is de bedoeling dat we iets gaan maken voor iemand met een beperking. De klas is verdeeld in groepjes en ieder groepje werd aan een ander persoon gekoppeld. In totaal waren er 3 groepjes en 3 personen. Ik ben ingedeeld bij het groepje van Marie. Marie is docent bij CMD en ze werkt als ontwerper bij Unc Inc. Marie wil graag naar podcasts luisteren en daar net zoveel details in horen als mensen die kunnen horen. En ze wil graag dat ze geluid in films net zo kan ervaren als mensen die wel geluid horen. (dit stukje over Marie heb ik overigens rechtstreeks van DLO gehaald, maar we hebben haar natuurlijk ook gesproken) We zouden de kans krijgen om haar te interviewen. Met de informatie over Marie van DLO bij de hand hebben we een aantal vragen bedacht om aan Marie te vragen. Hieronder de informatie die we hebben vergaard. (de vragen stonden op 1 blaadje, en die heeft iemand anders meegenomen) Gelukkig zijn de antwoorden het belangrijkste. :)
 
 Marie is doof geboren. Ze weten niet waarom en hoe dit is gebeurd.
@@ -46,6 +45,15 @@ De dagen erna heb ik alleen een beetje nagedacht over wat ik wilde doen, maar ha
 
 <details>
   <summary>week 2</summary>
+## Idee voorleggen
+Ik werd de dag na we Marie hadden ontmoet ziek en had helaas niet zoveel meer kunnen voorbereiden voor de test die we samen met Marie zouden doen op woensdag. Ik heb daarom op papier een stukje van mijn idee gevisualiseerd en aan Marie uitgelegd wat ik van plan was te doen. Ik wilde me bezig houden met geluid buiten het beeld en animatie toevoegen die het gevoel en de sfeer naar voren konden laten komen en bepaald geluid konden nabootsen. Marie was heel enthausiast en zei dat het haar deed denken aan hoe ze dat doen in stripboeken. Hieronder de schets die ik heb laten zien aan Marie.
 
+![schets2](/screenshots/schets2.jpg)
+
+Na het feedback moment ben ik begonnen met het maken van een website en ging ik zoeken naar een scene uit de serie 'The Bear'. Ik heb uiteindelijk gekozen voor een bekende scene uit de keuken die mega druk is en waarbij je veel kan ontgaan als je het geluid erbij niet kunt horen. Ik heb daarna heel lang gestruggled met proberen uit te vogelen hoe ik de tekst in beeld zou krijgen en hoe ik dit zou kunnen aanpassen. Ik heb heel weinig ervaring met Javascript en hierdoor voel ik me wel een beetje geïntimideerd. Ik heb uiteindelijk van Niels een script gekregen waarmee ik dit kan doen. Dit heeft hij ook helemaal uitgelegd en hiermee kon ik verder alleen aan de slag gelukkig. Ik kon alleen nog niet uitvogelen hoe ik een zin, woord vóór woord in beeld kon laten komen. Misschien had ik achteraf de woorden in een array moeten zetten, maar dit heb ik uiteindelijk niet meer geprobeerd.
+</details>
   
-  </details>
+<details>
+  <summary>week 1</summary>
+    ## Eindelijk iets om te testen!
+</details>
