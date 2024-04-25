@@ -5,7 +5,7 @@ Human Centered Design
 
 <details>
   <summary>week 1</summary>\
-    ## Marie leren kennen
+  
  ## Marie leren kennen
 Deze week hebben we ons vooral bezig gehouden met oriënteren. Het is de bedoeling dat we iets gaan maken voor iemand met een beperking. De klas is verdeeld in groepjes en ieder groepje werd aan een ander persoon gekoppeld. In totaal waren er 3 groepjes en 3 personen. Ik ben ingedeeld bij het groepje van Marie. Marie is docent bij CMD en ze werkt als ontwerper bij Unc Inc. Marie wil graag naar podcasts luisteren en daar net zoveel details in horen als mensen die kunnen horen. En ze wil graag dat ze geluid in films net zo kan ervaren als mensen die wel geluid horen. (dit stukje over Marie heb ik overigens rechtstreeks van DLO gehaald, maar we hebben haar natuurlijk ook gesproken) We zouden de kans krijgen om haar te interviewen. Met de informatie over Marie van DLO bij de hand hebben we een aantal vragen bedacht om aan Marie te vragen. Hieronder de informatie die we hebben vergaard. (de vragen stonden op 1 blaadje, en die heeft iemand anders meegenomen) Gelukkig zijn de antwoorden het belangrijkste. :)
 
@@ -46,6 +46,7 @@ De dagen erna heb ik alleen een beetje nagedacht over wat ik wilde doen, maar ha
 
 <details>
   <summary>week 2</summary>
+  
 ## Idee voorleggen
 Ik werd de dag na we Marie hadden ontmoet ziek en had helaas niet zoveel meer kunnen voorbereiden voor de test die we samen met Marie zouden doen op woensdag. Ik heb daarom op papier een stukje van mijn idee gevisualiseerd en aan Marie uitgelegd wat ik van plan was te doen. Ik wilde me bezig houden met geluid buiten het beeld en animatie toevoegen die het gevoel en de sfeer naar voren konden laten komen en bepaald geluid konden nabootsen. Marie was heel enthausiast en zei dat het haar deed denken aan hoe ze dat doen in stripboeken. Hieronder de schets die ik heb laten zien aan Marie.
 
@@ -55,6 +56,15 @@ Na het feedback moment ben ik begonnen met het maken van een website en ging ik 
 </details>
   
 <details>
-  <summary>week 1</summary>
-    ## Eindelijk iets om te testen!
+  <summary>week 3</summary>
+  
+  ## Eindelijk iets om te testen!
+  Ik wilde mijn tekst laten bewegen op het tempo van hoe er gepraat werd. Dit deed ik door middel van een animatie. Ik wilde eigenlijk dat de tekst woord voor woord in beeld zou komen en op die manier het praat tempo duidelijk maken, maar dit was nog niet gelukt. Ik had wel een online tool gevonden die dit kon doen, dus ik heb haar wel kunnen laten zien wat ik eigenlijk wilde bereiken. Marie vond het idee om de zinnen woord vóót woord in beeld te laten komen erg leuk, het bewegen van de tekst vond ze iets te veel en al helemaal als ik ze allebei zou doen. Dus dat heb ik uiteindelijk weg gehaald. Ook was mijn styling nog totaal niet zoals ik het wilde hebben. Ik heb tijdens het feedback moment ook feedback opgeschreven die ze gaf aan anderen, zodat ik hier misschien ook iets uit kon halen.
+
+  - Ze gaf aan dat het misschien kon helpen om alle geluiden op te schrijven die je hoort tijdens het kijken.
+  - Over muziek zei ze dat je kon kijken naar ritme, sfeer, gevoel, meer details over hoe het klinkt en de emotie daarbij.
+
+voor mij had ze nog:
+ - spelen met de positie
+  
 </details>
