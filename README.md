@@ -87,26 +87,9 @@ Als ik meer tijd had gehad, dan had ik nog meer animaties gemaakt en meer achteg
 
 <details>
   <summary>Design principles</summary>
-    
-  <details>
-    <summary>Study Information</summary>
-      prrr
-    </details>
-    
-    <details>
-    <summary>Ignoring Conventions</summary>
-      prrr
-    </details>
-    
-    <details>
-    <summary>Prioritize Identity</summary>
-      prr
-    </details>
-    
-    <details>
-    <summary>Adding Nonsense</summary>
-      prr
-    </details>
-    
+  #Study Information
+  #Ignoring Conventions
+  #Prioritize Identity
+  #Adding Nonsense
 </details>
 
