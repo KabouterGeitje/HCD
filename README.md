@@ -87,8 +87,8 @@ Als ik meer tijd had gehad, dan had ik nog meer animaties gemaakt en meer achteg
 
 <details>
   <summary>Design principles</summary>
-    <details>
-      
+    
+  <details>
     <summary>Study Information</summary>
       prrr
     </details>
