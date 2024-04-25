@@ -41,7 +41,7 @@ Als laatste verteld Marie dat we alles uit de kast mogen gooien!
 
 De dagen erna heb ik alleen een beetje nagedacht over wat ik wilde doen, maar had ik nog niet echt een concreet idee. Ik wilde iets doen met geluid dat buiten beeld is en hier een visualisatie bij maken. Ik dacht ook na over hoe muziek en geluid gevisualiseerd werd in de oude audio speler van windows waar ik als kind veel naar heb gekeken. Ik wilde ook kijken of ik iets met het font kon doen op basis van de emoties. Hieronder een eerste schets en aantekeningen.
 
-![schetsen](/docs/screenshots/figmaSchets1.png)
+![schets1](/screenshots/schets1.jpg)
 </details>
 
 <details>
